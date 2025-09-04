@@ -122,7 +122,7 @@ function App() {
             <section id="about" aria-label="Sobre mim">
               <About />
             </section>
-            
+
             <section id="skills" aria-label="Habilidades técnicas">
               <Skills />
             </section>
