@@ -108,7 +108,7 @@ function App() {
       <SEO {...currentSEO} />
 
       {/* Estrutura semântica principal */}
-      <div className="min-h-screen flex flex-col bg-gray-900">
+      <div className="min-h-screen flex flex-col bg-gray-900 dark">
         {/* Header/Navigation */}
         <Header activeSection={activeSection} setActiveSection={handleNavigation} />
 
