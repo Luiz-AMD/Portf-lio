@@ -63,18 +63,24 @@
 
 /* Animações CSS3 customizadas */
 @keyframes float {
-  0%, 100% {
+
+  0%,
+  100% {
     transform: translateY(0px);
   }
+
   50% {
     transform: translateY(-10px);
   }
 }
 
 @keyframes pulse-glow {
-  0%, 100% {
+
+  0%,
+  100% {
     box-shadow: 0 0 20px var(--glow-color);
   }
+
   50% {
     box-shadow: 0 0 30px var(--glow-color), 0 0 40px var(--glow-color);
   }
@@ -84,9 +90,11 @@
   0% {
     background-position: 0% 50%;
   }
+
   50% {
     background-position: 100% 50%;
   }
+
   100% {
     background-position: 0% 50%;
   }
@@ -312,6 +320,7 @@
 
   /* Animações responsivas */
   @media (prefers-reduced-motion: reduce) {
+
     .floating,
     .slide-in-left,
     .slide-in-right,

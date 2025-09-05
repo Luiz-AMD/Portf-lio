@@ -38,7 +38,7 @@ const Hero = ({ setActiveSection }) => {
             </div>
             <div className="flex justify-center items-center slide-in-right order-1 lg:order-2 mb-8 lg:mb-0">
                 <img
-                    src="/src/assets/img/foto perfil.jpg"
+                    src="/profile.jpg"
                     alt="Foto de Luiz Antônio"
                     className="w-64 h-64 lg:w-80 lg:h-80 rounded-full object-cover border-4 border-gray-200 dark:border-gray-600 floating image-hover shadow-lg"
                 />
