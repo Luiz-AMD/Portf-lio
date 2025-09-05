@@ -13,7 +13,7 @@ const Projects = () => {
                         Projetos
                     </h3>
                     <p className="text-lg text-gray-600 dark:text-gray-300 max-w-3xl mx-auto leading-relaxed mb-6">
-                        Por enquanto ainda não coloquei nenhum projeto aqui, pois estou tentando aprender as melhores opções de como apresentar meus projetos de forma mais eficaz e atrativa.
+                        Por enquanto deixei os projetos no github, pois estou tentando aprender as melhores opções de como apresentar meus projetos de forma mais eficaz e atrativa.
                     </p>
 
                     <div className="text-center">
