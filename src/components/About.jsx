@@ -21,10 +21,7 @@ const About = () => {
                     </p>
                 </article>
                 <aside className="space-y-6 slide-in-right" aria-label="Estatísticas profissionais">
-                    <div className="card p-8 text-center scale-in">
-                        <h3 className="text-4xl font-bold gradient-text mb-2" aria-label="1 ou mais anos de experiência">1+</h3>
-                        <p className="text-gray-600 dark:text-gray-300 font-medium">Ano de Experiência</p>
-                    </div>
+                    
                     <div className="card p-8 text-center scale-in" style={{ animationDelay: '0.2s' }}>
                         <h3 className="text-4xl font-bold gradient-text mb-2" aria-label="10 ou mais projetos concluídos">10+</h3>
                         <p className="text-gray-600 dark:text-gray-300 font-medium">Projetos Concluídos</p>
