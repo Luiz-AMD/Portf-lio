@@ -23,6 +23,12 @@ const Roadmap = () => {
                                 </p>
                                 <div className="space-y-2">
                                     <div className="flex items-center justify-between">
+                                        <span className="text-sm font-medium text-gray-700 dark:text-gray-300">HTML & CSS Avançado</span>
+                                        <span className="text-sm text-blue-600 dark:text-blue-400">Concluído</span>
+                                    </div>
+                                </div>
+                                <div className="space-y-2">
+                                    <div className="flex items-center justify-between">
                                         <span className="text-sm font-medium text-gray-700 dark:text-gray-300">JavaScript & React</span>
                                         <span className="text-sm text-blue-600 dark:text-blue-400">Em andamento</span>
                                     </div>
