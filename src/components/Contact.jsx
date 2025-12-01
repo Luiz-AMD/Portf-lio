@@ -98,7 +98,7 @@ const Contact = () => {
                         </div>
                         <div className="border-2 border-blue-600 rounded-full p-2">
                             <a
-                                href="https://www.instagram.com/luiz_alla11?igsh=MXhucnBqNGw1eHZqMA=="
+                                href="https://www.instagram.com/tony_dev1522/"
                                 className="text-blue-600 hover:text-blue-700 transition-colors glow-effect"
                                 target="_blank"
                                 rel="noopener noreferrer"
