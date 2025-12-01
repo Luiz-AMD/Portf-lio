@@ -29,13 +29,13 @@ const Roadmap = () => {
                                         <span className="text-sm font-medium text-gray-700 dark:text-gray-300">HTML & CSS Avançado</span>
                                         <span className="text-sm text-blue-600 dark:text-green-400">Concluído</span>
                                     </div>
+                                     <div className="flex items-center justify-between">
+                                        <span className="text-sm font-medium text-gray-700 dark:text-gray-300">Git & GitHub Basico </span>
+                                        <span className="text-sm text-green-600 dark:text-green-400">Concluído</span>
+                                    </div>
                                     <div className="flex items-center justify-between">
                                         <span className="text-sm font-medium text-gray-700 dark:text-gray-300">JavaScript & React</span>
                                         <span className="text-sm text-blue-600 dark:text-green-400">Basico</span>
-                                    </div>
-                                    <div className="flex items-center justify-between">
-                                        <span className="text-sm font-medium text-gray-700 dark:text-gray-300">Git & GitHub Basico </span>
-                                        <span className="text-sm text-green-600 dark:text-green-400">Basico</span>
                                     </div>
                                     <div className="flex items-center justify-between">
                                         <span className="text-sm font-medium text-gray-700 dark:text-gray-300">APIs REST</span>
